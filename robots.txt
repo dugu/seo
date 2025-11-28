@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /seo/donation.html
-
-User-agent: *
-Disallow: /seo/donation
